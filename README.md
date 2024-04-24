@@ -1,6 +1,6 @@
 ![President Humanoid](https://github.com/sourceduty/National_Commander/assets/123030236/80f9d9ca-b623-457b-968d-b53a42ce19f7)
 
-📋 Automated super artificial international political commander.
+🤖 Automated super artificial international political commander.
 
 #
 ### Concept
